@@ -25,9 +25,13 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
         backgroundColor: Colors.transparent,
         systemOverlayStyle: SystemUiOverlayStyle.light,
       ),
-      body: Image.asset(
-        "assets/bg.png",
-        fit: BoxFit.cover,
+      body: SizedBox(
+        width: double.infinity,
+        height: double.infinity,
+        child: Image.asset(
+          "assets/bg.png",
+          fit: BoxFit.cover,
+        ),
       ),
     );
   }

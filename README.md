@@ -7,9 +7,12 @@ Onboarding Animation is a Flutter app that showcases some cool and good animatio
 - [Preview](#preview)
 - [App Structure](#app-structure)
 - [Features](#features)
+- [Usage](#usage)
 - [Getting Started](#getting-started)
 
 ## Preview
+
+https://github.com/ahmedghaly15/OnBoardng-Animation-App/assets/108659381/aac2e7da-1368-4c0a-9a5f-8126d2ca7415
 
 ## App Structure
 
@@ -25,9 +28,20 @@ lib
 
 ## Features
 
-- Animated onboarding screens
+- Animated onboarding screen
 - Easily customizable
 - Reusable code for building your own onboarding pages
+- Resource to learn some new animations
+
+## Usage
+
+The Onboarding Animation app is designed to be easily customizable and reusable. You can use the existing code as a starting point for your own onboarding page, or you can modify the existing code to suit your needs.
+
+To customize the app, you can modify the following files:
+
+- `lib/main.dart`: This file contains the main entry point for the app and sets up the initial screen.
+- `lib/onboarding_screen.dart`: This file contains the code for the onboarding screen, including the animations.
+- `lib/components/*`: This directory contains the various widgets used in the app.
 
 ## Getting Started
 

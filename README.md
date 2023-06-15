@@ -12,7 +12,7 @@ Onboarding Animation is a Flutter app that showcases some cool and good animatio
 
 ## Preview
 
-https://github.com/ahmedghaly15/OnBoardng-Animation-App/assets/108659381/aac2e7da-1368-4c0a-9a5f-8126d2ca7415
+<img src="https://github.com/ahmedghaly15/OnBoardng-Animation-App/assets/108659381/aac2e7da-1368-4c0a-9a5f-8126d2ca7415" width= "300" height = "600"/>
 
 ## App Structure
 
